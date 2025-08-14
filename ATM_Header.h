@@ -8,10 +8,10 @@
 // Includes fields for name, account number, account type, balance, and more
 struct Details
 {
-    std::string name = "Amr Saad Rajab Ahmed";
-    std::string Account = "720602800";
+    std::string name = "John Doe";
+    std::string Account = "12345678912345";
     std::string accountType = "Current account";
-    double balance = 8700;
+    double balance = 10000;
     double negativeBalance = 2500;
     double dailyWithdrawn = 0;
     double dailyDeposit = 0;
