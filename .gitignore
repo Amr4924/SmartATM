@@ -1,0 +1,12 @@
+# Compiled binaries
+atm
+*.exe
+*.out
+
+# Build artifacts
+*.o
+*.obj
+
+# Temporary files
+*.tmp
+*~

@@ -20,7 +20,7 @@ void WelcomeMessage()
     cout << "|  You can perform operations such as viewing your balance, |" << endl;
     cout << "|  withdrawing cash, and depositing funds.                  |" << endl;
     cout << "|                                                           |" << endl;
-    cout << "|  Start progtam:                                           |" << endl;
+    cout << "|  Start program:                                           |" << endl;
     cout << "|  1. Insert your card                                      |" << endl;
     cout << "|  2. Enter your PIN code                                   |" << endl;
     cout << "|  3. Choose an operation from the menu                     |" << endl;
@@ -47,7 +47,7 @@ void accountData(vector<Details> details)
         cout << endl;
     cout << "Balance: " << details.at(i).balance << " L.E." << endl;
         cout << endl;
-        cout << "NegativeBalance: " << details.at(i).negativeBalance << "L.E." << endl;
+        cout << "NegativeBalance: " << details.at(i).negativeBalance << " L.E." << endl;
         cout << "--------------------------------" << endl;
             
     }
