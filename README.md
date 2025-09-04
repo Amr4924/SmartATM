@@ -188,4 +188,4 @@ This project is for educational purposes and is provided as-is without any warra
 
 ---
 
-If you have any questions or suggestions, feel free to contact the author or contribute to the project!
+If you have any questions or suggestions, feel free to contact the author or contribute to the project!.
